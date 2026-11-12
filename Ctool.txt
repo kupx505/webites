@@ -125,13 +125,6 @@
       };
 }
 //========================================
-1375980451
-{
-          'name':Ralp,
-        'date': Expired  Asssualt Fire  Dec 3,
-      };
-}
-//========================================
 378467327
 {
        'name':Jhay Latorgo,
@@ -178,13 +171,6 @@
 {
        'name':Mart Dela Vega,
         'date': Expired  Crossfire  NOV 17,
-      };
-}
-//========================================
-3034178945
-{
-          'name':Ralp,
-        'date': Expired  Asssualt Fire  NOV 30,
       };
 }
 //========================================
@@ -343,13 +329,6 @@
 }
 
 //========================================
-2157224641
-{
-          'name':Ralp,
-        'date': Expired  Asssualt Fire  NOV 16,
-      };
-}
-//========================================
 982135625
 {
           'name':Ryan Allen,
@@ -447,17 +426,25 @@
         'date': PointBlank Expired in NOV 21,
       };
 }
-//=====================================
-3326177980
+//========================================
+1375980451
 {
-        'name': Jhay-ar Iglopas Villamor Jr.,
-        'date': PointBlank Expired in NOV 11,
+          'name':Ralp,
+        'date': Expired  Asssualt Fire  Dec 3,
       };
 }
-//====================================
-2120141429
+//========================================
+3034178945
 {
-        'name' Kent Palmagil,
-        'date': Expired PointBlank  Nov 5,
+          'name':Ralp,
+        'date': Expired  Asssualt Fire  NOV 30,
       };
 }
+//========================================
+2157224641
+{
+          'name':Ralp,
+        'date': Expired  Asssualt Fire  NOV 16,
+      };
+}
+
